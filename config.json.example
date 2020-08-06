@@ -4,5 +4,5 @@
   "SOUNDCLOUD_CLIENT_ID": "asdlkajasd",
   "MAX_PLAYLIST_SIZE": 200,
   "PREFIX": "s!",
-  "PRUNING": false
+  "PRUNING": true
 }
