@@ -1,8 +1,8 @@
 {
   "TOKEN": process.env.Token,
-  "YOUTUBE_API_KEY": "",
+  "YOUTUBE_API_KEY": "AIzaSyCZZJiAvZwxoi1X5udmGuJYXBqSCga8dEg",
   "SOUNDCLOUD_CLIENT_ID": "",
-  "MAX_PLAYLIST_SIZE": 10,
-  "PREFIX": "/",
+  "MAX_PLAYLIST_SIZE": 200,
+  "PREFIX": "s!",
   "PRUNING": false
 }
